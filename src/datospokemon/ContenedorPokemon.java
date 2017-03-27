@@ -13,4 +13,5 @@ import java.util.LinkedList;
  */
 public class ContenedorPokemon {
     public static LinkedList lp = new LinkedList();
+    //este es el contenedor
 }
